@@ -1,0 +1,12 @@
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/bin/Debug/netstandard2.0/ApexRestaurant.Services.deps.json
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/bin/Debug/netstandard2.0/ApexRestaurant.Services.dll
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/bin/Debug/netstandard2.0/ApexRestaurant.Services.pdb
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/bin/Debug/netstandard2.0/ApexRestaurant.Repository.dll
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/bin/Debug/netstandard2.0/ApexRestaurant.Repository.pdb
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/obj/Debug/netstandard2.0/ApexRestaurant.Services.csprojAssemblyReference.cache
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/obj/Debug/netstandard2.0/ApexRestaurant.Services.csproj.CoreCompileInputs.cache
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/obj/Debug/netstandard2.0/ApexRestaurant.Services.AssemblyInfoInputs.cache
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/obj/Debug/netstandard2.0/ApexRestaurant.Services.AssemblyInfo.cs
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/obj/Debug/netstandard2.0/ApexRestaurant.Services.csproj.CopyComplete
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/obj/Debug/netstandard2.0/ApexRestaurant.Services.dll
+/home/joshan/Desktop/ApexProject/ApexRestaurant.Services/obj/Debug/netstandard2.0/ApexRestaurant.Services.pdb
